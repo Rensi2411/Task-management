@@ -1,0 +1,17 @@
+# Node modules
+node_modules/
+
+# Environment variables
+backend/.env
+frontend/.env
+
+# Build files
+backend/dist/
+frontend/dist/
+
+# Log files
+*.log
+
+# Vercel / Netlify / Render
+.vercel/
+.netlify/
